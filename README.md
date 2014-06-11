@@ -1,6 +1,6 @@
 # [ahomiya.com](http://ahomiya.github.io)
 
-[![Omuraisu](https://raw.githubusercontent.com/ahomiya/ahomiya.github.io/master/doc/img/ahomiya.png)](http://ahomiya.github.io)
+[![ahomiya.com](https://raw.githubusercontent.com/ahomiya/ahomiya.github.io/master/docs/img/ahomiya.png)](http://ahomiya.github.io)
 
 Professional Web Design &amp; Development
 

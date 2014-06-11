@@ -1,5 +1,7 @@
 # [ahomiya.com](http://ahomiya.github.io)
 
+[![Omuraisu](https://raw.githubusercontent.com/ahomiya/ahomiya.github.io/master/doc/img/ahomiya.png)](http://ahomiya.github.io)
+
 Professional Web Design &amp; Development
 
 This this an officail ahomiya.com page on GitHub.
